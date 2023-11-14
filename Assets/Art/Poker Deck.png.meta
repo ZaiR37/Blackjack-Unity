@@ -1,0 +1,1271 @@
+fileFormatVersion: 2
+guid: f2fcb1eee6cf3074ba175545154912bc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Poker Card Ace Club
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2020.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74662992ac2084b418596962903ebce1
+      internalID: 749807589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 2 Club
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 2020.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ba999531945e94387e1dba08ad4360
+      internalID: 1794141679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 3 Club
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 2020
+        width: 410
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51bbbafca83a934f9f83271bd932626
+      internalID: 751560115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 4 Club
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 2020.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a3918435e299c42ae6f7fcee8f975a
+      internalID: -1243751370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 5 Club
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 2020.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dc74c9fb3fd964d923767fc96d5b36
+      internalID: -1817996675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 6 Club
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 2020.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f667a292224fa1544bbcc89fd8fdf958
+      internalID: 1516841960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 7 Club
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 2020.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd4432d75f1fe8418652a02563dc8cb
+      internalID: 1661110939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 8 Club
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 2020.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e95344ae605dd74fa77a564fff03ccb
+      internalID: 2136648387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 9 Club
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 2020.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94becc342b45a94ca82f8d99eaef19c
+      internalID: -1635581448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 10 Club
+      rect:
+        serializedVersion: 2
+        x: 4172
+        y: 2020.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5d7c3b91162b94f817000ce207eee0
+      internalID: -1409201231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card Jack Club
+      rect:
+        serializedVersion: 2
+        x: 4630
+        y: 2020.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ebb6b62ffd5b148ab4804792cfdeb6
+      internalID: 1541228330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card Queen Club
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 2024
+        width: 410
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff0a969c0617b042948fbe634d4bdc7
+      internalID: -36092101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card King Club
+      rect:
+        serializedVersion: 2
+        x: 5546
+        y: 2024
+        width: 410
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dcdb900a6bf0745929fb3960d3abf8
+      internalID: -1899585661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card Ace Heart
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1360.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4670a5fa79e67ca43ba28bda93f4d4bb
+      internalID: 1896691133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 2 Heart
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1364
+        width: 410
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4363dad049e0f4097f43b5b7668861
+      internalID: -1643811994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 3 Heart
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1364
+        width: 410
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cbbf43637e3ee43aa1edd652e6f03d
+      internalID: -1449184969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 4 Heart
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1360.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bc43d5b87e21e4cb39970e12fa1009
+      internalID: -1683453835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 5 Heart
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1360.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86441f1b74fe3c3448150b7c96c2969d
+      internalID: 1586413810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 6 Heart
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1360.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bdf80c47f31f142836255f7b405a4d
+      internalID: -459549094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 7 Heart
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 1360.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cabf3276963aa4d85f74c3951a1b90
+      internalID: 850309010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 8 Heart
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 1360.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417ff8feef0f87e44a2821babe4cb72f
+      internalID: 24447477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 9 Heart
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 1367
+        width: 410
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6763f271fa6fcc542bcbc62a32566ef0
+      internalID: 1162613440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 10 Heart
+      rect:
+        serializedVersion: 2
+        x: 4172
+        y: 1360.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7011e87bf68872e49bdcbaa2a8226195
+      internalID: 27024627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card Jack Heart
+      rect:
+        serializedVersion: 2
+        x: 4630
+        y: 1364
+        width: 410
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ceb78f0055b5443b5742d35bd35204
+      internalID: -1605385477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card Queen Heart
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 1368
+        width: 410
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfee6f0625dbc546a64843f961f8545
+      internalID: -295719692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card King Heart
+      rect:
+        serializedVersion: 2
+        x: 5546
+        y: 1364
+        width: 410
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe1c44fb1e36b94992b5072d11a089f
+      internalID: 1696540788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card Ace Spade
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 700
+        width: 410
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f0dea8f75107741bc6cf6c2e0940a8
+      internalID: 971957844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 2 Spade
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 700.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5034bbbbcf137c84dba18c907d107725
+      internalID: -1808603389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 3 Spade
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 700
+        width: 410
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164a45512be43294f82a1808ef355fe0
+      internalID: 1901429330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 4 Spade
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 704
+        width: 410
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93447aa51b7928a4c8add3f43d8f03a5
+      internalID: -679317381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 5 Spade
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 708
+        width: 410
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584de5f8ea4686c4280fa5bbf1033ab7
+      internalID: 975438642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 6 Spade
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 700.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93066d528c3c9e045959349a96eacdd2
+      internalID: -1763429051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 7 Spade
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 700.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6e8d55d5e137d42b848dec7184d8ed
+      internalID: -1002412223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 8 Spade
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 704
+        width: 410
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439cd4cb24cace04694c031f79ca76c1
+      internalID: 1090700111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 9 Spade
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 708
+        width: 410
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0af55c7dfdb994b84b81ce189fb84c
+      internalID: -1831538336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 10 Spade
+      rect:
+        serializedVersion: 2
+        x: 4172
+        y: 700.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d1194455e05b54c8411e2e837741b3
+      internalID: 683732182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card Jack Spade
+      rect:
+        serializedVersion: 2
+        x: 4626
+        y: 700
+        width: 410
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e075c6225079c6f46800d363f75ac7f9
+      internalID: 268893986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card Queen Spade
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 704
+        width: 410
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb958c54625a9bd45ae6999c1f8c2228
+      internalID: 1180658576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card King Spade
+      rect:
+        serializedVersion: 2
+        x: 5546
+        y: 700.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1621ca0d22690354fb202d6ce751da38
+      internalID: -1603650958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card Ace Diamond
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 48
+        width: 410
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1429e547f935b458b2311204536076
+      internalID: -1196883839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 2 Diamond
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 40.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9868069c6894dcf4cbf5bac673559123
+      internalID: 180332760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 3 Diamond
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 40.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d325f43e6a695ab418566d887115535a
+      internalID: 1493808797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 4 Diamond
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 40.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb714cd732fb9f40bb1ea767f062f22
+      internalID: -605289494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 5 Diamond
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 40.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de87d8e36d71ec14d996dd068f001891
+      internalID: -1912454770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 6 Diamond
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 40.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08cef5866a635a438ed7ab0dfa52bee
+      internalID: -1632449194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 7 Diamond
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 40.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f244fac65b41d46922d52d7e4c5a5b
+      internalID: -706178157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 8 Diamond
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 40.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92bf0ae13b14a644ab8b72d84b2a7cb
+      internalID: 660453710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 9 Diamond
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 44
+        width: 410
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38308ebeab87ac64fb8eae253f888d68
+      internalID: -329702147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card 10 Diamond
+      rect:
+        serializedVersion: 2
+        x: 4172
+        y: 40.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459b0795acaaf91468f915088be4ea8a
+      internalID: -483267512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card Jack Diamond
+      rect:
+        serializedVersion: 2
+        x: 4630
+        y: 40.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bac012403794be4582764cf628b27d5
+      internalID: 1244125991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card Queen Diamond
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 40.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d272bcd36fd5b764692e648413cb60d5
+      internalID: 780053840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker Card King Diamond
+      rect:
+        serializedVersion: 2
+        x: 5546
+        y: 40.5
+        width: 410.23077
+        height: 621.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d228a11fab8ab04458d48c416f9d5f3a
+      internalID: 596520028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Poker Card 10 Club: -1409201231
+      Poker Card 10 Diamond: -483267512
+      Poker Card 10 Heart: -1605385477
+      Poker Card 10 Spade: 683732182
+      Poker Card 2 Club: 1794141679
+      Poker Card 2 Diamond: 180332760
+      Poker Card 2 Heart: -1449184969
+      Poker Card 2 Spade: -1808603389
+      Poker Card 3 Club: 751560115
+      Poker Card 3 Diamond: 1493808797
+      Poker Card 3 Heart: -1683453835
+      Poker Card 3 Spade: 1901429330
+      Poker Card 4 Club: -1243751370
+      Poker Card 4 Diamond: -605289494
+      Poker Card 4 Heart: 1586413810
+      Poker Card 4 Spade: -679317381
+      Poker Card 5 Club: -1817996675
+      Poker Card 5 Diamond: -1912454770
+      Poker Card 5 Heart: -459549094
+      Poker Card 5 Spade: 975438642
+      Poker Card 6 Club: 1516841960
+      Poker Card 6 Diamond: -1632449194
+      Poker Card 6 Heart: 850309010
+      Poker Card 6 Spade: -1763429051
+      Poker Card 7 Club: 1661110939
+      Poker Card 7 Diamond: -706178157
+      Poker Card 7 Heart: 24447477
+      Poker Card 7 Spade: -1002412223
+      Poker Card 8 Club: 2136648387
+      Poker Card 8 Diamond: 660453710
+      Poker Card 8 Heart: 1162613440
+      Poker Card 8 Spade: 1090700111
+      Poker Card 9 Club: -1635581448
+      Poker Card 9 Diamond: -329702147
+      Poker Card 9 Heart: 27024627
+      Poker Card 9 Spade: -1831538336
+      Poker Card Ace Club: 749807589
+      Poker Card Ace Diamond: -1196883839
+      Poker Card Ace Heart: 1896691133
+      Poker Card Ace Spade: 971957844
+      Poker Card Jack Club: 1541228330
+      Poker Card Jack Diamond: 1244125991
+      Poker Card Jack Heart: -36092101
+      Poker Card Jack Spade: 268893986
+      Poker Card King Club: -1643811994
+      Poker Card King Diamond: 596520028
+      Poker Card King Heart: 1696540788
+      Poker Card King Spade: -1603650958
+      Poker Card Queen Club: -36092101
+      Poker Card Queen Diamond: 780053840
+      Poker Card Queen Heart: -295719692
+      Poker Card Queen Spade: 1180658576
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
